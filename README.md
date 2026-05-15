@@ -36,17 +36,15 @@ The main objective of this project is to analyze housing data, identify importan
     Handled missing values
     Checked duplicate records
     Dropped unnecessary Id column
-    Exploratory Data Analysis (EDA)
+ - Exploratory Data Analysis (EDA)
  - Statistical summary
-
-    Distribution plots
-
-    Countplots
-
-    Boxplots
+ - Distribution plots
+ - Countplots
+ - Boxplots
+ - Correlation heatmap
    
-    Correlation heatmap
  - Feature Engineering
+   
     Label Encoding
 
    One-Hot Encoding
